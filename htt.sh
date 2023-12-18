@@ -1,1 +1,1 @@
-odin run htt.odin -file -out:hx2tx
+odin build htt.odin -file -out:hx2tx
